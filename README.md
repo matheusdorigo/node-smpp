@@ -390,3 +390,5 @@ will be completely ignored if not enabled.
 ## License
 
 node-smpp is released under the MIT license.
+#   n o d e s m p p  
+ 
